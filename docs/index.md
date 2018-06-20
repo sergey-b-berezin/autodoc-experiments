@@ -1,7 +1,7 @@
-Title
-=====
+Git Page Documentation Sample
+=============================
 
-Content
+This is sample page showing how user and api docs can be arranged using Git Pages (github.io)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
