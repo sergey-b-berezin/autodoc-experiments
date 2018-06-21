@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/// <summary>This is namespace for all classes in my class library</summary>
 namespace MyLibrary
 {
     /// <summary>This is main class in my class library</summary>
